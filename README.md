@@ -49,10 +49,11 @@ Every notebook you find here reflects:
 🔹Mini-Projects & Case Studies
 
 ### Each notebook is timestamped and documented clearly for future reference.
+--- 
 
 🗂️ Folder Structure
 
-
+```
 DataCanvas-Daily/
 │
 ├── Python/
@@ -84,62 +85,62 @@ DataCanvas-Daily/
 │       └── Notebook.ipynb
 │
 └── README.md
+```
+--- 
 
-📝 Daily Progress Log
+## 📝 Daily Progress Log
 
-A living log of what I learn every single day.
-Updated continuously as I grow.
+### A living log of what I learn every single day.
+### Updated continuously as I grow.
 
-Day 1 — Getting Started
+--- 
 
-Repository setup
+## 🏁 Goals of this Repository
 
-Introduction to Python notebook structure
+🔹Build a consistent learning habit
 
-Basic hands-on Python practice
+🔹Practice real-world data science workflows
 
-(I can fill all days for you — just say "Add Day 2" or "Add 30 days plan" to continue.)
+🔹Strengthen ML/DL understanding through experiments
 
-🏁 Goals of this Repository
+🔹Maintain a clean notebook archive
 
-Build a consistent learning habit
+🔹Create reusable templates and code snippets
 
-Practice real-world data science workflows
+🔹Track long-term growth in AI and programming
 
-Strengthen ML/DL understanding through experiments
+--- 
 
-Maintain a clean notebook archive
+## 🛠️ Technologies & Tools
 
-Create reusable templates and code snippets
+🔹Python 🔹 NumPy 🔹 Pandas
 
-Track long-term growth in AI and programming
+🔹Scikit-Learn 🔹 TensorFlow 🔹 PyTorch
 
-🛠️ Technologies & Tools
+🔹Matplotlib 🔹 Seaborn 🔹 Plotly
 
-Python • NumPy • Pandas
+🔹NLTK 🔹 SpaCy 🔹 Transformers
 
-Scikit-Learn • TensorFlow • PyTorch
+🔹SQL 🔹 Spark (DE)
 
-Matplotlib • Seaborn • Plotly
+🔹R 🔹 SAS
 
-NLTK • SpaCy • Transformers
+🔹Kaggle APIs
 
-SQL • Spark (DE)
+🔹Jupyter Notebook 🔹 VS Code
 
-R • SAS
-
-Kaggle APIs
-
-Jupyter Notebook / VS Code
+--- 
 
 ⭐ How to Use This Repository
 
-Browse by domain or date
+🔹Browse by domain or date
 
-Open notebooks in Jupyter / VS Code
+🔹Open notebooks in Jupyter / VS Code
 
-Re-run experiments
+🔹Re-run experiments
 
-Use the scripts as templates
+🔹Use the scripts as templates
 
-Follow daily logs for structured learning
+🔹Follow daily logs for structured learning
+
+---
